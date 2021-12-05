@@ -1,2 +1,3 @@
-# Forkify-App
-Developed a Forkify app using mordern and advanced javasript
+# forkify Project
+
+Recipe application with custom recipe uploads.
